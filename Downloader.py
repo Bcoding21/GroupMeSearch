@@ -6,7 +6,7 @@ from enum import Enum
 
 
 class Downloader:
-    access_code = "?token=pbYteuau9pn1TASKB0xSjlouL9esisv76XU1mxfe"
+    access_code = "token"
     base_url = "https://api.groupme.com/v3"
     group_url = "/groups"
     messages_url = "/messages"
